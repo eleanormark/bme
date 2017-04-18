@@ -1,0 +1,34 @@
+body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Raleway", sans-serif
+    }
+
+
+#googleMap {
+    width: 100%;
+    height: 510px;
+    filter: grayscale(50%);
+    
+}
+
+footer {
+    padding-top: 24px;
+    padding-bottom: 24px;
+    background: #eee;
+    color: #777;
+
+}
+
+#contact form input {
+    padding:8px;
+    display:block;
+    width:100%
+}
+
+#contact .fa.fa-fw{
+    font-size: 36px;
+}
+
+.padding-30 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
